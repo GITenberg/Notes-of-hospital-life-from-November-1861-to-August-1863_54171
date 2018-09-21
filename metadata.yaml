@@ -1,0 +1,35 @@
+_repo: Notes-of-hospital-life-from-November-1861-to-August-1863_54171
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Potter, Alonzo
+    alias: Potter, A. (Alonzo)
+    birthdate: 1800
+    deathdate: 1865
+    gutenberg_agent_id: '47746'
+    url: http://www.gutenberg.org/2009/agents/47746
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2017-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54171'
+  lccn: 02018779
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+- GITenberg
+title: Notes of hospital life from November, 1861, to August, 1863
+url: http://www.gutenberg.org/ebooks/54171
